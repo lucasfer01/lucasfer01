@@ -4,7 +4,7 @@
 
 ## ⚙ Tecnologias
 
-<div style="display:flex;">
+<div style="display:flex; width:100%">
     <div style="display:flex; flex-direction:column; align-items:center; width:20%">
         <p>JavaScript</p>
         <img width='100px' src='./media/javascript.png'/>
