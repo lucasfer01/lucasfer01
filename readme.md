@@ -40,3 +40,45 @@
     <img src='./media/postgresql.png' width='100px'/>
     <img src='./media/mongodb.png' width='100px'/>
 </p>
+
+</br>
+
+# Ultimo Proyecto
+
+### Landing
+
+<img src='./media/screen proyecto/landing.jpeg'/>
+
+</br>
+
+### Home
+
+<img src='./media/screen proyecto/home-1.jpeg'/>
+<img src='./media/screen proyecto/home-2.jpeg'/>
+<img src='./media/screen proyecto/filtro.jpeg'/>
+
+</br>
+
+### Agregar recetas
+
+<img src='./media/screen proyecto/agregar-recetas.jpeg'/>
+
+</br>
+
+### Recetas creadas
+
+<img src='./media/screen proyecto/recetas-creadas.jpeg'/>
+
+</br>
+
+# Te interesó mi perfil? Contactame📞
+
+`LinkedIn:` https://www.linkedin.com/in/lucasfernandez-dev/
+
+</br>
+
+`Github:` https://github.com/lucasfer01
+
+</br>
+
+`Mail:` lucasfer9912@gmail.com
