@@ -16,8 +16,6 @@
     <img src='./media/java.png' width='100px'/>
 </p>
 
-</br>
-
 ## Frontend
 
 </br>
@@ -76,10 +74,6 @@
 # Te interesó mi perfil? Contactame📞
 
 `LinkedIn:` https://www.linkedin.com/in/lucasfernandez-dev/
-
-</br>
-
-`Github:` https://github.com/lucasfer01
 
 </br>
 
