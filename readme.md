@@ -2,7 +2,7 @@
 
 </br>
 
-<h2 align='center'>------------------------ Full Stack Developer ------------------------</h2>
+<h2 align='center'><b>💻FULL STACK DEVELOPER💻</b></h2>
 
 </br>
 
