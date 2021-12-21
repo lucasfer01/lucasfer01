@@ -47,27 +47,29 @@
 
 ### Landing
 
-<img src='./media/screen proyecto/landing.jpeg'/>
+<img src='./media/screen proyecto/landing.jpeg' width='300px'/>
 
 </br>
 
 ### Home
 
-<img src='./media/screen proyecto/home-1.jpeg'/>
-<img src='./media/screen proyecto/home-2.jpeg'/>
-<img src='./media/screen proyecto/filtro.jpeg'/>
+<p>
+    <img src='./media/screen proyecto/home-1.jpeg' width='300px'/>
+    <img src='./media/screen proyecto/home-2.jpeg' width='300px'/>
+    <img src='./media/screen proyecto/filtro.jpeg' width='300px'/>
+</p>
 
 </br>
 
 ### Agregar recetas
 
-<img src='./media/screen proyecto/agregar-recetas.jpeg'/>
+<img src='./media/screen proyecto/agregar-recetas.jpeg' width='300px'/>
 
 </br>
 
 ### Recetas creadas
 
-<img src='./media/screen proyecto/recetas-creadas.jpeg'/>
+<img src='./media/screen proyecto/recetas-creadas.jpeg' width='300px'/>
 
 </br>
 
