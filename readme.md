@@ -1,28 +1,42 @@
 <img src='./media/banner.png'/>
 
+</br>
+
 <h2 align='center'>------------------------ Full Stack Developer ------------------------</h2>
 
-## ⚙ Tecnologias
+</br>
 
-<div style="display:flex; flex-wrap:wrap; width:100%">
-    <div style="display:flex; flex-direction:column; align-items:center; width:20%">
-        <p>JavaScript</p>
-        <img width='100px' src='./media/javascript.png'/>
-    </div>
-    <div style="display:flex; flex-direction:column; align-items:center; width:20%">
-        <p>HTML</p>
-        <img width='100px' src='./media/html.png'/>
-    </div>
-    <div style="display:flex; flex-direction:column; align-items:center; width:20%">
-        <p>CSS</p>
-        <img width='100px' src='./media/css.png'/>
-    </div>
-    <div style="display:flex; flex-direction:column; align-items:center; width:20%">
-        <p>React</p>
-        <img width='100px' src='./media/react.png'/>
-    </div>
-    <div style="display:flex; flex-direction:column; align-items:center; width:20%">
-        <p align='center'>Redux</p>
-        <img width='100px' src='./media/redux.png'/>
-    </div>
-</div>
+## Lenguajes
+
+</br>
+
+<p>
+    <img src='./media/javascript.png' width='100px'/>
+    <img src='./media/typescript.png' width='100px'/>
+    <img src='./media/java.png' width='100px'/>
+</p>
+
+</br>
+
+## Frontend
+
+</br>
+
+<p>
+    <img src='./media/html.png' width='100px'/>
+    <img src='./media/css.png' width='100px'/>
+    <img src='./media/react.png' width='100px'/>
+    <img src='./media/redux.png' width='100px'/>
+</p>
+
+## Backend
+
+</br>
+
+<p>
+    <img src='./media/nodejs.png' width='100px'/>
+    <img src='./media/express.png' width='100px'/>
+    <img src='./media/sequelize.png' width='100px'/>
+    <img src='./media/postgresql.png' width='100px'/>
+    <img src='./media/mongodb.png' width='100px'/>
+</p>
