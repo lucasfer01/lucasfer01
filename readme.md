@@ -41,36 +41,6 @@
 
 </br>
 
-# Ultimo Proyecto
-
-### Landing
-
-<img src='./media/screen proyecto/landing.jpeg' width='300px'/>
-
-</br>
-
-### Home
-
-<p>
-    <img src='./media/screen proyecto/home-1.jpeg' width='300px'/>
-    <img src='./media/screen proyecto/home-2.jpeg' width='300px'/>
-    <img src='./media/screen proyecto/filtro.jpeg' width='300px'/>
-</p>
-
-</br>
-
-### Agregar recetas
-
-<img src='./media/screen proyecto/agregar-recetas.jpeg' width='300px'/>
-
-</br>
-
-### Recetas creadas
-
-<img src='./media/screen proyecto/recetas-creadas.jpeg' width='300px'/>
-
-</br>
-
 # Te interesó mi perfil? Contactame📞
 
 `LinkedIn:` https://www.linkedin.com/in/lucasfernandez-dev/
