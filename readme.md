@@ -6,16 +6,16 @@ Frontend-leaning Full-Stack Engineer — TypeScript · React/Next.js · Node (Fa
 
 ---
 
-## Sobre mí
+## About me
 
-Construyo productos web con mentalidad **production-grade**: modularidad, mantenibilidad y entrega repetible.
-Trabajo principalmente con **TypeScript + React/Next.js (Vite)** y me muevo cómodo en arquitecturas **microfrontend**.
-Cuando el alcance lo requiere, conecto el frontend con **Node.js (Fastify/Express)** y datos en **PostgreSQL/Prisma**.
+I build web products with a **production-grade** mindset: modularity, maintainability, and repeatable delivery.
+I work mainly with **TypeScript + React/Next.js (Vite)** and I’m comfortable with **micro-frontend** architectures.
+When the scope requires it, I connect the frontend with **Node.js (Fastify/Express)** and data in **PostgreSQL/Prisma**.
 
-Mi foco fuerte está en:
-- **Calidad y confiabilidad**: tests unitarios con **Jest + React Testing Library**, cobertura y protección contra regresiones.
-- **Delivery**: CI/CD con **GitHub Actions** y deploys a **Firebase** (staging + prod).
-- **Operación**: observabilidad con **métricas Prometheus** (via `prom-client`) y baseline de hardening (headers/rate limiting/NGINX).
+My main focus areas:
+- **Quality & reliability**: unit testing with **Jest + React Testing Library**, solid coverage, and regression prevention.
+- **Delivery**: CI/CD with **GitHub Actions** and **Firebase** deploys (staging + prod).
+- **Operations**: observability via **Prometheus metrics** (through `prom-client`) and baseline hardening (headers/rate limiting/NGINX).
 
 ---
 
@@ -25,11 +25,11 @@ Mi foco fuerte está en:
 - TypeScript, React, Next.js, Vite
 - Zustand, React Query
 - Formik, React Hook Form
-- Tailwind (y/o sistemas UI consistentes)
+- Tailwind (and/or consistent UI systems)
 
 **Backend**
 - Node.js, Fastify, Express
-- NGINX (+ Lua para Basic Auth cuando hace falta)
+- NGINX (+ Lua for Basic Auth when needed)
 
 **Data**
 - PostgreSQL, Prisma
@@ -44,25 +44,25 @@ Mi foco fuerte está en:
 
 ---
 
-## Lo que estoy construyendo / explorando
+## What I’m building / exploring
 
-- 🧩 **Arquitecturas modulares**: microfrontends, contratos y tipos compartidos (sin drift).
-- 🧪 **Testing serio en frontend**: patrones para mocks de stores/hooks, formularios y componentes complejos.
-- 📈 **Operación y señales**: métricas, diagnósticos y hardening básico desde el diseño.
-
----
-
-## Qué busco
-
-Roles **Mid/Senior** (Frontend o Full-Stack) donde pueda tener ownership end-to-end:
-- construir features,
-- influir en arquitectura,
-- asegurar calidad,
-- participar en deploys y operación.
+- 🧩 **Modular architectures**: microfrontends, contracts, and shared types (no drift).
+- 🧪 **Serious frontend testing**: patterns for mocking stores/hooks, forms, and complex components.
+- 📈 **Signals & operations**: metrics, diagnostics, and baseline hardening from day one.
 
 ---
 
-## Contacto
+## What I’m looking for
+
+**Mid/Senior** roles (Frontend or Full-Stack) where I can own work end-to-end:
+- build features,
+- influence architecture,
+- ensure quality,
+- participate in deploys and operations.
+
+---
+
+## Contact
 
 - Email: lucasfer9912@gmail.com  
 - LinkedIn: https://www.linkedin.com/in/lucasfernandez-dev/  
@@ -70,6 +70,6 @@ Roles **Mid/Senior** (Frontend o Full-Stack) donde pueda tener ownership end-to-
 
 ---
 
-## Extra (si querés hablar de tech)
-Siempre abierto a charlar sobre:
-microfrontends, TypeScript patterns, testing en React, arquitectura de APIs, Postgres/Prisma y CI/CD.
+## Extra (if you want to talk tech)
+Always happy to chat about:
+microfrontends, TypeScript patterns, React testing, API architecture, Postgres/Prisma, and CI/CD.
